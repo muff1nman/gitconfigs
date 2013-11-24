@@ -4,3 +4,5 @@ tags
 git_log.txt
 nohup.out
 Thumbs.db
+*.iml
+*.idea
