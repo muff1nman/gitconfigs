@@ -6,3 +6,4 @@ nohup.out
 Thumbs.db
 *.iml
 *.idea
+.fuse_hidden*
