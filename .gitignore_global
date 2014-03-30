@@ -7,3 +7,4 @@ Thumbs.db
 *.iml
 *.idea
 .fuse_hidden*
+.svn
