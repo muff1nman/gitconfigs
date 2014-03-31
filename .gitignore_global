@@ -8,3 +8,4 @@ Thumbs.db
 *.idea
 .fuse_hidden*
 .svn
+__pycache__
