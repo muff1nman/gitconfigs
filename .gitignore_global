@@ -9,3 +9,4 @@ Thumbs.db
 .fuse_hidden*
 .svn
 __pycache__
+.DS_Store
